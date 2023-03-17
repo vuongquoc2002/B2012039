@@ -48,4 +48,4 @@
 </ol>
 
 # Customer Interface
-![alt text](http://url/to/Untitled.png)
+![alt img](http://url/to/Untitled.png)
