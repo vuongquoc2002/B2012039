@@ -48,5 +48,5 @@
 </ol>
 
 # Customer Interface
-![feature-image](https://drive.google.com/file/d/1weOJq72BEgq9QUfXfFAfzfuNNkdphZt6/view?usp=share_link)
+![alt](https://drive.google.com/file/d/1weOJq72BEgq9QUfXfFAfzfuNNkdphZt6/view?usp=share_link)
 
