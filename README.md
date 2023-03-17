@@ -48,4 +48,4 @@
 </ol>
 
 # Customer Interface
-<img src="[/Untitled.png](https://drive.google.com/file/d/1weOJq72BEgq9QUfXfFAfzfuNNkdphZt6/view?usp=share_link)" alt="">
+![alt text](http://url/to/Untitled.png)
