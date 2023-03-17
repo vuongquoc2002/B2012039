@@ -1,3 +1,3 @@
-# B2012039
+# WEB SYSTEM DEVELOPMENT PROJECT - CT299
 
-# GIOI THIEU BÀI THỰC HÀNH CT299.
+## Supervisor: Dr. Nguyen Thanh Hai
