@@ -48,5 +48,4 @@
 </ol>
 
 # Customer Interface
-![alt](https://drive.google.com/file/d/1weOJq72BEgq9QUfXfFAfzfuNNkdphZt6/view?usp=share_link)
- <img src="https://drive.google.com/drive/u/1/my-drive" alt="">
+<img src="https://raw.githubusercontent.com/vuongquoc2002/B2012039/ff5132e118389f0328987dedb5201082a8786206/Untitled.png" alt="">
